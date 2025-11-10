@@ -2403,8 +2403,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "LODATO LAURA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -2683,8 +2683,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "PIANIFICAZIONE DEL LAVORO",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "MATERIE PRIME E SEMILAVORATI\/FONDI, BRODI E SALSE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -2707,6 +2707,20 @@
         "IDCORSO": " ID10",
         "CLASSE_SEZIONE": "1H ID109",
         "DATAOR": "12-11-2025",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "ASSISTENZA DEL CLIENTE IN OFFICINA",
+        "FORMATORE": "DI BELLA CLAUDIO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "14-11-2025",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
         "INIZIO": "08:00",
@@ -2781,8 +2795,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "PIANIFICAZIONE DEL LAVORO",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "MATERIE PRIME E SEMILAVORATI\/FONDI, BRODI E SALSE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -2805,6 +2819,20 @@
         "IDCORSO": " ID10",
         "CLASSE_SEZIONE": "1H ID109",
         "DATAOR": "12-11-2025",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "ASSISTENZA DEL CLIENTE IN OFFICINA",
+        "FORMATORE": "DI BELLA CLAUDIO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "14-11-2025",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
         "INIZIO": "09:00",
@@ -2865,8 +2893,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -2879,7 +2907,35 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LE ATTREZZATURE",
+        "MODULO": "MATERIE PRIME E SEMILAVORATI\/FONDI, BRODI E SALSE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "13-11-2025",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "ASSISTENZA DEL CLIENTE IN OFFICINA",
+        "FORMATORE": "DI BELLA CLAUDIO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "ASSISTENZA DEL CLIENTE IN OFFICINA",
         "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
@@ -2935,8 +2991,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "PIANIFICAZIONE DEL LAVORO",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -2949,8 +3005,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "NUCCIO FRANCESCO PAOLO",
+        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -2965,6 +3021,34 @@
         "FINE": "12:00",
         "MODULO": "I MOTORI",
         "FORMATORE": "CUCINA GIAMPIERO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "13-11-2025",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "ASSISTENZA DEL CLIENTE IN OFFICINA",
+        "FORMATORE": "DI BELLA CLAUDIO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO -LABORATORIO ELETTRICO \/ ELETTRONICO",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -3033,8 +3117,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -3049,6 +3133,20 @@
         "FINE": "13:00",
         "MODULO": "I VEICOLI A MOTORE",
         "FORMATORE": "CUCINA GIAMPIERO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO -LABORATORIO ELETTRICO \/ ELETTRONICO",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -3117,8 +3215,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "GEOGRAFIA GENERALE ED ECONOMICA",
-        "FORMATORE": "FERRARA GIUSEPPE",
+        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -3133,6 +3231,20 @@
         "FINE": "14:00",
         "MODULO": "I VEICOLI A MOTORE",
         "FORMATORE": "CUCINA GIAMPIERO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "13:00 - 14:00",
+        "NUM": "6",
+        "INIZIO": "13:00",
+        "FINE": "14:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO -LABORATORIO ELETTRICO \/ ELETTRONICO",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -3719,8 +3831,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "VASTA FRANCESCO",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "GIUFFRE' PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -3957,8 +4069,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/PERMANENTE",
-        "FORMATORE": "BELLAVISTA SARA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "GIUFFRE' PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -4965,8 +5077,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA\/TRUCCO GIORNO\/SERA",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -5105,8 +5217,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MANTO DANIELE",
         "SUPPLITO": ""
     },
     {
@@ -6141,8 +6253,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "FORESTA ROSALIA",
+        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/AUTRONICA",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -6157,6 +6269,20 @@
         "FINE": "09:00",
         "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/GASTRONOMIA",
         "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "2H",
+        "IDCORSO": " ID36",
+        "CLASSE_SEZIONE": "2H ID360",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/MISE EN PLACE",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -6225,8 +6351,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "GAGLIO FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/AUTRONICA",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -6255,6 +6381,20 @@
         "FINE": "10:00",
         "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/GASTRONOMIA",
         "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "2H",
+        "IDCORSO": " ID36",
+        "CLASSE_SEZIONE": "2H ID360",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/MISE EN PLACE",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -6323,8 +6463,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "NUCCIO FRANCESCO PAOLO",
+        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/AUTRONICA",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -6381,6 +6521,20 @@
         "FINE": "11:00",
         "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/GASTRONOMIA",
         "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "2H",
+        "IDCORSO": " ID36",
+        "CLASSE_SEZIONE": "2H ID360",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/MISE EN PLACE",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -6449,8 +6603,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
-        "FORMATORE": "ALBERELLI GAETANA",
+        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/MANUTENZIONE MOTORI",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -6479,6 +6633,20 @@
         "FINE": "12:00",
         "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/CUCINA  LOCALE",
         "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "2H",
+        "IDCORSO": " ID36",
+        "CLASSE_SEZIONE": "2H ID360",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "AVVIAMENTO ALLO STAGE \/ SIMULAZIONE STAGE",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -6547,8 +6715,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "DIRITTO ED ECONOMIA",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/MANUTENZIONE MOTORI",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -6591,6 +6759,20 @@
         "FINE": "13:00",
         "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/CUCINA  LOCALE",
         "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "2H",
+        "IDCORSO": " ID36",
+        "CLASSE_SEZIONE": "2H ID360",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "AVVIAMENTO ALLO STAGE \/ SIMULAZIONE STAGE",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -6659,8 +6841,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "CITTADINANZA ATTIVA",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/MANUTENZIONE MOTORI",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -6703,6 +6885,20 @@
         "FINE": "14:00",
         "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/CUCINA  LOCALE",
         "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "2H",
+        "IDCORSO": " ID36",
+        "CLASSE_SEZIONE": "2H ID360",
+        "DATAOR": "14-11-2025",
+        "ORARIO": "13:00 - 14:00",
+        "NUM": "6",
+        "INIZIO": "13:00",
+        "FINE": "14:00",
+        "MODULO": "AVVIAMENTO ALLO STAGE \/ SIMULAZIONE STAGE",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -8395,8 +8591,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/ASCIUGATURA AVANZATA",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -8465,8 +8661,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/ASCIUGATURA AVANZATA",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -8745,8 +8941,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/TECNICHE DI STIRAGGIO",
+        "FORMATORE": "AMICO SERENA",
         "SUPPLITO": ""
     },
     {
@@ -9277,8 +9473,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "GAGLIO FRANCESCA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CONFEZIONAMENTO",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -9291,8 +9487,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "GAGLIO FRANCESCA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CONFEZIONAMENTO",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -9347,8 +9543,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "FORESTA ROSALIA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CONFEZIONAMENTO",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -9361,8 +9557,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GENTILE SIMONA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CONFEZIONAMENTO",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -9389,7 +9585,7 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "HACCP",
+        "MODULO": "ALLERGIE E INTOLLERANZE",
         "FORMATORE": "SAUSA FRANCESCA",
         "SUPPLITO": ""
     },
@@ -9431,8 +9627,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GENTILE SIMONA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CONFEZIONAMENTO",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -9459,8 +9655,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "FORESTA ROSALIA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/MISE EN PLACE AVANZATA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -9501,8 +9697,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "GENTILE SIMONA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CUCINA INTERNAZIONALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -9529,8 +9725,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "ALLERGIE E INTOLLERANZE",
-        "FORMATORE": "SAUSA FRANCESCA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/ALLESTIMENTO SALA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -9543,8 +9739,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "PARITA' DI GENERE E PARI OPPORTUNITA'",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CONFEZIONAMENTO",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -9571,8 +9767,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "PARITA' DI GENERE E PARI OPPORTUNITA'",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CUCINA INTERNAZIONALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -9599,8 +9795,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ALLERGIE E INTOLLERANZE",
-        "FORMATORE": "SAUSA FRANCESCA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/ALLESTIMENTO SALA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -9641,8 +9837,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "PARITA' DI GENERE E PARI OPPORTUNITA'",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CUCINA INTERNAZIONALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
