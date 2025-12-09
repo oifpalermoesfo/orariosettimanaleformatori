@@ -1507,7 +1507,7 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "ECONOMIA E CULTURA D'IMPRESA",
+        "MODULO": "MATEMATICA",
         "FORMATORE": "NUCCIO FRANCESCO PAOLO",
         "SUPPLITO": ""
     },
@@ -1563,8 +1563,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SVILUPPO SOSTENIBILE SOCIALE",
-        "FORMATORE": "TERMINELLI ANTONINO",
+        "MODULO": "DIRITTO",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1675,8 +1675,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "SVILUPPO SOSTENIBILE SOCIALE",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -1731,8 +1731,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "SVILUPPO SOSTENIBILE SOCIALE",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -2333,8 +2333,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ALTERNANZA SIMULATA\/LA GESTIONE OPERATIVA DELL'IMPRESA SIMULATA",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "LABORATORIO BASE DI CUCINA-LA BRIGATA DI CUCINA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -2363,6 +2363,20 @@
         "FINE": "11:00",
         "MODULO": "I MOTORI",
         "FORMATORE": "CUCINA GIAMPIERO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "11-12-2025",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO -LABORATORIO ELETTRICO \/ ELETTRONICO",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2403,8 +2417,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "ALTERNANZA SIMULATA\/LA GESTIONE OPERATIVA DELL'IMPRESA SIMULATA",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "LABORATORIO BASE DI CUCINA-LA BRIGATA DI CUCINA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -2433,6 +2447,20 @@
         "FINE": "12:00",
         "MODULO": "I MOTORI",
         "FORMATORE": "CUCINA GIAMPIERO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "11-12-2025",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO -LABORATORIO ELETTRICO \/ ELETTRONICO",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -5889,8 +5917,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "LABORATORIO AVANZATO DI ESTETICA\/TRUCCO SPOSA",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -7485,8 +7513,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/MISE EN PLACE AVANZATA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -7541,8 +7569,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/MISE EN PLACE AVANZATA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
@@ -7835,8 +7863,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "GENTILE SIMONA",
         "SUPPLITO": ""
     },
     {
@@ -7891,8 +7919,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "GENTILE SIMONA",
         "SUPPLITO": ""
     },
     {
