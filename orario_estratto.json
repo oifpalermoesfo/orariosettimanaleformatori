@@ -24,7 +24,7 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "FORMATORE": "BRUNO MONICA",
         "SUPPLITO": ""
     },
     {
@@ -108,7 +108,7 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "FORMATORE": "BRUNO MONICA",
         "SUPPLITO": ""
     },
     {
@@ -191,8 +191,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SVILUPPO SOSTENIBILE SOCIALE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "COMUNICAZIONE DI BASE",
+        "FORMATORE": "BRUNO MONICA",
         "SUPPLITO": ""
     },
     {
@@ -639,8 +639,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "PIANIFICAZIONE DEL LAVORO",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -709,8 +709,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -779,8 +779,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "LE ATTREZZATURE",
+        "FORMATORE": "CALI' PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -849,8 +849,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "TECNICHE DI LAVORAZIONE",
+        "FORMATORE": "CALI' PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -919,8 +919,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "STATISTICA DESCRITTIVA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -989,8 +989,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "POLITICHE AMBIENTALI",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -1213,8 +1213,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA- PERMANENTE",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -2767,8 +2767,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
-        "FORMATORE": "MALTESE GIOACCHINO",
+        "MODULO": "HACCP",
+        "FORMATORE": "SAUSA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -2781,8 +2781,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "HACCP",
-        "FORMATORE": "SAUSA FRANCESCA",
+        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONSERVAZIONE DEI PRODOTTI FINITI",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -2879,8 +2879,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "CONSERVAZIONE DEGLI ALIMENTI\/CONFEZIONAMENTO DEGLI ALIMENTI",
-        "FORMATORE": "MALTESE GIOACCHINO",
+        "MODULO": "SCIENZE DEGLI ALIMENTI",
+        "FORMATORE": "SAUSA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -3635,8 +3635,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "MODULO": "MATEMATICA E GEOMETRIA",
+        "FORMATORE": "REALMUTO LUCIA",
         "SUPPLITO": ""
     },
     {
@@ -4266,7 +4266,7 @@
         "INIZIO": "12:00",
         "FINE": "13:00",
         "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "FORMATORE": "MESSINA ISABELLA",
         "SUPPLITO": ""
     },
     {
@@ -4279,8 +4279,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "CITTADINANZA ATTIVA",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "MATEMATICA E GEOMETRIA",
+        "FORMATORE": "REALMUTO LUCIA",
         "SUPPLITO": ""
     },
     {
@@ -4336,7 +4336,7 @@
         "INIZIO": "13:00",
         "FINE": "14:00",
         "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "FORMATORE": "MESSINA ISABELLA",
         "SUPPLITO": ""
     },
     {
@@ -4349,8 +4349,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/TAGLIO BASE DONNA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -4405,8 +4405,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "AVVIAMENTO ALLO STAGE \/ SIMULAZIONE STAGE",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -4433,8 +4433,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "CITTADINANZA ATTIVA",
-        "FORMATORE": "TERMINELLI ANTONINO",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -4475,8 +4475,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "AVVIAMENTO ALLO STAGE \/ SIMULAZIONE STAGE",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -4559,8 +4559,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "RUBINO VITA ",
         "SUPPLITO": ""
     },
     {
@@ -4643,8 +4643,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -4713,8 +4713,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -4783,8 +4783,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -4853,8 +4853,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MANTO DANIELE",
         "SUPPLITO": ""
     },
     {
@@ -4923,8 +4923,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -4993,8 +4993,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -5105,8 +5105,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -5175,8 +5175,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "MESSINA ISABELLA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -8913,8 +8913,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
+        "FORMATORE": "VASTA FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -8983,8 +8983,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "MODULO": "MATEMATICA E GEOMETRIA",
+        "FORMATORE": "VITRANO PIERO",
         "SUPPLITO": ""
     },
     {
@@ -9193,8 +9193,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/MISE EN PLACE AVANZATA",
-        "FORMATORE": "CALCAGNO ANDREA",
+        "MODULO": "HACCP",
+        "FORMATORE": "SAUSA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -9263,8 +9263,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/MISE EN PLACE AVANZATA",
-        "FORMATORE": "CALCAGNO ANDREA",
+        "MODULO": "HACCP",
+        "FORMATORE": "SAUSA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -9487,8 +9487,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "HACCP",
-        "FORMATORE": "SAUSA FRANCESCA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/CUCINA INTERNAZIONALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -9557,8 +9557,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ALLERGIE E INTOLLERANZE",
-        "FORMATORE": "SAUSA FRANCESCA",
+        "MODULO": "LABORATORIO AVANZATO DI CUCINA \/MISE EN PLACE AVANZATA",
+        "FORMATORE": "CALCAGNO ANDREA",
         "SUPPLITO": ""
     },
     {
