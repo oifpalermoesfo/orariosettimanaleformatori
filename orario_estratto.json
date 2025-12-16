@@ -23,8 +23,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "BRUNO MONICA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -88,6 +88,20 @@
         "CLASSE": "1A",
         "IDCORSO": " ID10",
         "CLASSE_SEZIONE": "1A ID102",
+        "DATAOR": "16-12-2025",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "LABORATORIO BASE ESTETICA-TRUCCO BASE",
+        "FORMATORE": "FORESTA ROSALIA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "MIRANDOLA",
+        "CLASSE": "1A",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1A ID102",
         "DATAOR": "15-12-2025",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -107,8 +121,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "BRUNO MONICA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -172,6 +186,20 @@
         "CLASSE": "1A",
         "IDCORSO": " ID10",
         "CLASSE_SEZIONE": "1A ID102",
+        "DATAOR": "16-12-2025",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "LABORATORIO BASE ESTETICA-TRUCCO BASE",
+        "FORMATORE": "FORESTA ROSALIA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "MIRANDOLA",
+        "CLASSE": "1A",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1A ID102",
         "DATAOR": "15-12-2025",
         "ORARIO": "10:00 - 11:00",
         "NUM": "3",
@@ -191,8 +219,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "BRUNO MONICA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
@@ -233,8 +261,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "CERAULO BIANCA",
+        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
+        "FORMATORE": "ALBERELLI GAETANA",
         "SUPPLITO": ""
     },
     {
@@ -345,7 +373,7 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA",
+        "MODULO": "SVILUPPO SOSTENIBILE AMBIENTALE",
         "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
@@ -933,8 +961,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "TECNICHE DI LAVORAZIONE",
-        "FORMATORE": "CALI' PIETRO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
     {
@@ -1003,8 +1031,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "TECNICHE DI LAVORAZIONE",
-        "FORMATORE": "CALI' PIETRO",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
     {
@@ -1213,8 +1241,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- PERMANENTE",
-        "FORMATORE": "RUBINO VITA ",
+        "MODULO": "LA GESTIONE DEL SALONE",
+        "FORMATORE": "AMICO SERENA",
         "SUPPLITO": ""
     },
     {
@@ -4560,7 +4588,7 @@
         "INIZIO": "10:00",
         "FINE": "11:00",
         "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "RUBINO VITA ",
+        "FORMATORE": "CALI' PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -5931,8 +5959,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
-        "FORMATORE": "ALBERELLI GAETANA",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA\/MASSAGGIO LINFODRENANTE",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -8788,7 +8816,7 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/ASCIUGATURA AVANZATA",
-        "FORMATORE": "RUBINO VITA ",
+        "FORMATORE": "CALI' PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -8858,7 +8886,7 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/ASCIUGATURA AVANZATA",
-        "FORMATORE": "RUBINO VITA ",
+        "FORMATORE": "CALI' PIETRO",
         "SUPPLITO": ""
     },
     {
