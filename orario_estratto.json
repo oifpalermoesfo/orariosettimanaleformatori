@@ -2375,8 +2375,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "PIANIFICAZIONE DEL LAVORO",
-        "FORMATORE": "MELODIA MONICA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -2445,8 +2445,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LE ATTREZZATURE",
-        "FORMATORE": "MELODIA MONICA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
