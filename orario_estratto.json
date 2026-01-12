@@ -1983,8 +1983,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "POLITICHE AMBIENTALI",
-        "FORMATORE": "MORELLO FABIOLA RITA",
+        "MODULO": "LA GESTIONE DEL SALONE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -2053,8 +2053,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GULLO ALESSANDRA",
+        "MODULO": "LA GESTIONE DEL SALONE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -2907,8 +2907,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "POLITICHE AMBIENTALI",
-        "FORMATORE": "MORELLO FABIOLA RITA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "GULLO ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -5414,7 +5414,7 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "VITRANO PIERO",
         "SUPPLITO": ""
     },
     {
@@ -5484,7 +5484,7 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "VITRANO PIERO",
         "SUPPLITO": ""
     },
     {
@@ -5554,7 +5554,7 @@
         "INIZIO": "10:00",
         "FINE": "11:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "VITRANO PIERO",
         "SUPPLITO": ""
     },
     {
