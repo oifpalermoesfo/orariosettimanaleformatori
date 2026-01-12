@@ -5427,8 +5427,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "FORESTIERE BENEDETTO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/ACCONCIATURA",
+        "FORMATORE": "SPARACIO GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -5498,7 +5498,7 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "FORESTIERE BENEDETTO",
+        "FORMATORE": "GULLO ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -6632,7 +6632,7 @@
         "INIZIO": "12:00",
         "FINE": "13:00",
         "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "FORESTIERE BENEDETTO",
+        "FORMATORE": "GULLO ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -6701,7 +6701,7 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
         "FORMATORE": "FORESTIERE BENEDETTO",
         "SUPPLITO": ""
     },
