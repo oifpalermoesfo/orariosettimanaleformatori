@@ -779,8 +779,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "STATISTICA DESCRITTIVA",
+        "FORMATORE": "REALMUTO LUCIA",
         "SUPPLITO": ""
     },
     {
@@ -849,8 +849,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -919,8 +919,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -989,8 +989,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1059,8 +1059,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "COMUNICAZIONE DI BASE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -1129,8 +1129,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "CATANZARO DOMENICO",
+        "MODULO": "COMUNICAZIONE DI BASE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -1339,8 +1339,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- PERMANENTE",
-        "FORMATORE": "RUBINO VITA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -1409,8 +1409,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- PERMANENTE",
-        "FORMATORE": "RUBINO VITA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
