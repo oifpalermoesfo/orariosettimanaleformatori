@@ -149,8 +149,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -165,20 +165,6 @@
         "FINE": "10:00",
         "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MIRANDOLA",
-        "CLASSE": "1A",
-        "IDCORSO": " ID10",
-        "CLASSE_SEZIONE": "1A ID102",
-        "DATAOR": "30-01-2026",
-        "ORARIO": "09:00 - 10:00",
-        "NUM": "2",
-        "INIZIO": "09:00",
-        "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
-        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -248,7 +234,7 @@
         "INIZIO": "10:00",
         "FINE": "11:00",
         "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -346,7 +332,7 @@
         "INIZIO": "11:00",
         "FINE": "12:00",
         "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -1339,8 +1325,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "PIANIFICAZIONE DEL LAVORO",
+        "FORMATORE": "RUBINO VITA",
         "SUPPLITO": ""
     },
     {
@@ -1409,8 +1395,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "PIANIFICAZIONE DEL LAVORO",
+        "FORMATORE": "RUBINO VITA",
         "SUPPLITO": ""
     },
     {
