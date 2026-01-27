@@ -710,7 +710,7 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -891,8 +891,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -961,8 +961,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -1031,8 +1031,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
     {
@@ -1087,8 +1087,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "POLITICHE AMBIENTALI",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -1200,7 +1200,7 @@
         "INIZIO": "10:00",
         "FINE": "11:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -1340,7 +1340,7 @@
         "INIZIO": "12:00",
         "FINE": "13:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -1480,7 +1480,7 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -1521,8 +1521,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MANTO DANIELE",
         "SUPPLITO": ""
     },
     {
@@ -3734,7 +3734,7 @@
         "INIZIO": "10:00",
         "FINE": "11:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -3804,7 +3804,7 @@
         "INIZIO": "11:00",
         "FINE": "12:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4294,7 +4294,7 @@
         "INIZIO": "12:00",
         "FINE": "13:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4364,7 +4364,7 @@
         "INIZIO": "13:00",
         "FINE": "14:00",
         "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4587,8 +4587,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "MATEMATICA E GEOMETRIA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4657,8 +4657,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4686,7 +4686,7 @@
         "INIZIO": "11:00",
         "FINE": "12:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
