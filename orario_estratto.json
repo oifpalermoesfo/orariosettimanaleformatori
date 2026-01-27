@@ -1059,8 +1059,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "CACI MARILENA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1129,8 +1129,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "COMUNICAZIONE DI BASE",
-        "FORMATORE": "CACI MARILENA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -3215,8 +3215,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PARRINELLO FRANCESCO",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
