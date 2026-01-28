@@ -149,7 +149,7 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
         "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
@@ -443,8 +443,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -541,8 +541,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -1885,8 +1885,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1955,8 +1955,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -2585,8 +2585,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "LA GESTIONE DEL CENTRO ESTETICO",
+        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -2655,8 +2655,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "LA GESTIONE DEL CENTRO ESTETICO",
+        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -2865,8 +2865,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "ALTERNANZA SIMULATA\/LA GESTIONE OPERATIVA DELL'IMPRESA SIMULATA",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2949,8 +2949,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "BILLITTERI BENEDETTO ALESSIO",
+        "MODULO": "ALTERNANZA SIMULATA\/LA GESTIONE OPERATIVA DELL'IMPRESA SIMULATA",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
