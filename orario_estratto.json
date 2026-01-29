@@ -233,8 +233,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "STORNIOLO VERONICA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
@@ -249,20 +249,6 @@
         "FINE": "11:00",
         "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MIRANDOLA",
-        "CLASSE": "1A",
-        "IDCORSO": " ID10",
-        "CLASSE_SEZIONE": "1A ID102",
-        "DATAOR": "30-01-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
-        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -331,8 +317,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "STORNIOLO VERONICA",
+        "MODULO": "SVILUPPO SOSTENIBILE AMBIENTALE",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
@@ -355,20 +341,6 @@
         "IDCORSO": " ID10",
         "CLASSE_SEZIONE": "1A ID102",
         "DATAOR": "28-01-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
-        "FORMATORE": "SENNECA SONIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MIRANDOLA",
-        "CLASSE": "1A",
-        "IDCORSO": " ID10",
-        "CLASSE_SEZIONE": "1A ID102",
-        "DATAOR": "30-01-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
         "INIZIO": "11:00",
@@ -639,8 +611,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA -COLORIMETRIA DI BASE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -1549,8 +1521,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MANTO DANIELE",
         "SUPPLITO": ""
     },
     {
@@ -5385,8 +5357,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
     {
@@ -5455,8 +5427,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
     {
