@@ -961,7 +961,7 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
         "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
@@ -1227,7 +1227,7 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
         "FORMATORE": "BONANNO SIMONA",
         "SUPPLITO": ""
     },
@@ -5287,8 +5287,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PARRINELLO FRANCESCO",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA\/MASSAGGIO LINFODRENANTE",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -6127,8 +6127,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
         "SUPPLITO": ""
     },
     {
