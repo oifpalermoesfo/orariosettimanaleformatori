@@ -3369,8 +3369,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/TAGLIO BASE UOMO",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -3439,8 +3439,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/TAGLIO BASE UOMO",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -3803,8 +3803,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA -pa",
         "SUPPLITO": ""
     },
     {
@@ -3873,8 +3873,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA -pa",
         "SUPPLITO": ""
     },
     {
@@ -4363,8 +4363,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/ACCONCIATURA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -4433,8 +4433,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/ACCONCIATURA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -4643,8 +4643,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/PERMANENTE",
-        "FORMATORE": "BELLAVISTA SARA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/TAGLIO BASE DONNA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -4713,8 +4713,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/PERMANENTE",
-        "FORMATORE": "BELLAVISTA SARA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/TAGLIO BASE DONNA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -4923,8 +4923,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/PERMANENTE",
+        "FORMATORE": "BELLAVISTA SARA",
         "SUPPLITO": ""
     },
     {
@@ -4993,8 +4993,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/PERMANENTE",
+        "FORMATORE": "BELLAVISTA SARA",
         "SUPPLITO": ""
     },
     {
