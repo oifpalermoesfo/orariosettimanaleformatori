@@ -1521,8 +1521,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -1591,8 +1591,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -1815,8 +1815,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1885,8 +1885,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -2865,8 +2865,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "LABORATORIO BASE DI CUCINA-LA BRIGATA DI CUCINA",
+        "FORMATORE": "DAVI' GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -2909,6 +2909,20 @@
         "FINE": "10:00",
         "MODULO": "ALTERNANZA SIMULATA\/DESCRIZIONE DELL’IMPRESA SIMULATA",
         "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "LA MALFA",
+        "CLASSE": "1H",
+        "IDCORSO": " ID10",
+        "CLASSE_SEZIONE": "1H ID109",
+        "DATAOR": "10-02-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "IMPIANTO ELETTRICO DEL VEICOLO",
+        "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
     {
@@ -3089,8 +3103,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE DI CUCINA-LA BRIGATA DI CUCINA",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -3132,20 +3146,6 @@
         "INIZIO": "11:00",
         "FINE": "12:00",
         "MODULO": "I MOTORI",
-        "FORMATORE": "CUCINA GIAMPIERO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "LA MALFA",
-        "CLASSE": "1H",
-        "IDCORSO": " ID10",
-        "CLASSE_SEZIONE": "1H ID109",
-        "DATAOR": "13-02-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "IMPIANTO ELETTRICO DEL VEICOLO",
         "FORMATORE": "CUCINA GIAMPIERO",
         "SUPPLITO": ""
     },
@@ -3719,8 +3719,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/TAGLIO BASE DONNA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -6575,22 +6575,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO\/MANUTENZIONE MOTORI",
-        "FORMATORE": "CUCINA GIAMPIERO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "LA MALFA",
-        "CLASSE": "2H",
-        "IDCORSO": " ID36",
-        "CLASSE_SEZIONE": "2H ID360",
-        "DATAOR": "13-02-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA\/MISE EN PLACE",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
+        "FORMATORE": "ALBERELLI GAETANA",
         "SUPPLITO": ""
     },
     {
@@ -6659,8 +6645,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
-        "FORMATORE": "ALBERELLI GAETANA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
