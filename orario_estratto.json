@@ -695,8 +695,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "TECNICHE DI LAVORAZIONE",
-        "FORMATORE": "CALI' PIETRO",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -765,8 +765,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "TECNICHE DI LAVORAZIONE",
-        "FORMATORE": "CALI' PIETRO",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -5469,8 +5469,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -5539,8 +5539,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -5609,8 +5609,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA\/PERMANENTE",
+        "FORMATORE": "SPARACIO GIUSEPPE",
         "SUPPLITO": ""
     },
     {
