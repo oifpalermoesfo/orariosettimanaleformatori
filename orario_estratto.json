@@ -877,8 +877,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -2417,8 +2417,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -2487,8 +2487,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
