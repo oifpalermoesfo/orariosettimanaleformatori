@@ -2865,8 +2865,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
-        "FORMATORE": "CAVATAIO BENEDETTO",
+        "MODULO": "LABORATORIO BASE DI CUCINA-PASTICCERIA",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -2963,8 +2963,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
-        "FORMATORE": "CAVATAIO BENEDETTO",
+        "MODULO": "LABORATORIO BASE DI CUCINA-PASTICCERIA",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -3075,8 +3075,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
-        "FORMATORE": "CAVATAIO BENEDETTO",
+        "MODULO": "LABORATORIO BASE DI CUCINA-PASTICCERIA",
+        "FORMATORE": "MALTESE GIOACCHINO",
         "SUPPLITO": ""
     },
     {
@@ -3187,8 +3187,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE DI CUCINA-PASTICCERIA",
-        "FORMATORE": "MALTESE GIOACCHINO",
+        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -3299,8 +3299,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE DI CUCINA-PASTICCERIA",
-        "FORMATORE": "MALTESE GIOACCHINO",
+        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -3411,8 +3411,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE DI CUCINA-PASTICCERIA",
-        "FORMATORE": "MALTESE GIOACCHINO",
+        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
