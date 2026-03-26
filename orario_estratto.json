@@ -93,8 +93,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "ACCOGLIENZA  DEL CLIENTE IN ESTETICA",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO RELAX",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -191,8 +191,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "ACCOGLIENZA  DEL CLIENTE IN ESTETICA",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO RELAX",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -317,8 +317,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ACCOGLIENZA  DEL CLIENTE IN ESTETICA",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO RELAX",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -1172,7 +1172,7 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -1732,7 +1732,7 @@
         "INIZIO": "10:00",
         "FINE": "11:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -1802,7 +1802,7 @@
         "INIZIO": "11:00",
         "FINE": "12:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -2025,8 +2025,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "FORESTA ROSALIA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -2585,7 +2585,7 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO RELAX",
+        "MODULO": "LABORATORIO BASE ESTETICA-PULIZIA DEL VISO",
         "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
@@ -2711,8 +2711,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LA GESTIONE DEL CENTRO ESTETICO",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO DRENANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -2725,8 +2725,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LA GESTIONE DEL CENTRO ESTETICO",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO RELAX",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -2781,8 +2781,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LA GESTIONE DEL CENTRO ESTETICO",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO DRENANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -2795,8 +2795,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LA GESTIONE DEL CENTRO ESTETICO",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO RELAX",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -5596,7 +5596,7 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -6631,8 +6631,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO AVANZATO DI ESTETICA\/MASSAGGIO BIOENERGETICO",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "ELEMENTI DI AMMINISTRAZIONE AZIENDALE",
+        "FORMATORE": "MANGIAPANE FABIOLA",
         "SUPPLITO": ""
     },
     {
@@ -6659,8 +6659,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO AVANZATO DI ESTETICA\/MASSAGGIO BIOENERGETICO",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "GAGLIO FRANCESCA",
         "SUPPLITO": ""
     },
     {
