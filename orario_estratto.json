@@ -1717,8 +1717,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -1787,8 +1787,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "BONANNO SIMONA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -5217,8 +5217,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "ACCOMPAGNAMENTO AL LAVORO",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "MESSINA ISABELLA",
         "SUPPLITO": ""
     },
     {
@@ -5708,7 +5708,7 @@
         "INIZIO": "12:00",
         "FINE": "13:00",
         "MODULO": "ACCOMPAGNAMENTO AL LAVORO",
-        "FORMATORE": "MANGANO DANIELA",
+        "FORMATORE": "PALMA  SILVIA",
         "SUPPLITO": ""
     },
     {
@@ -5778,7 +5778,7 @@
         "INIZIO": "13:00",
         "FINE": "14:00",
         "MODULO": "ACCOMPAGNAMENTO AL LAVORO",
-        "FORMATORE": "MANGANO DANIELA",
+        "FORMATORE": "PALMA  SILVIA",
         "SUPPLITO": ""
     },
     {
