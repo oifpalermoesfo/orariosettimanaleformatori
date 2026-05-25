@@ -5959,8 +5959,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "LA ROCCA RACHELE MARIA",
+        "MODULO": "MATEMATICA E GEOMETRIA",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
@@ -6043,8 +6043,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "TARAVELLA GANDOLFO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
@@ -6099,7 +6099,7 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
+        "MODULO": "SOSTENIBILITA'  AMBIENTALE",
         "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
@@ -6113,7 +6113,7 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SOSTENIBILITA'  AMBIENTALE",
+        "MODULO": "MATEMATICA E GEOMETRIA",
         "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
@@ -6169,7 +6169,7 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
+        "MODULO": "SOSTENIBILITA'  AMBIENTALE",
         "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
@@ -6183,7 +6183,7 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SOSTENIBILITA'  AMBIENTALE",
+        "MODULO": "MATEMATICA E GEOMETRIA",
         "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
@@ -6239,8 +6239,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "LA ROCCA RACHELE MARIA",
+        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -6309,8 +6309,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "LA ROCCA RACHELE MARIA",
+        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -6519,8 +6519,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
@@ -6589,8 +6589,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO AVANZATO DI ACCONCIATURA\/COLORIMETRIA AVANZATA",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
