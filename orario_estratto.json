@@ -5007,8 +5007,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO DRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
+        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -5175,8 +5175,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PALERMO FABIO",
+        "MODULO": "LABORATORIO BASE ESTETICA-MASSAGGIO DRENANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -5399,8 +5399,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PALERMO FABIO",
         "SUPPLITO": ""
     },
     {
