@@ -737,8 +737,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "LA ROCCA RACHELE MARIA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -751,8 +751,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -807,8 +807,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "LA ROCCA RACHELE MARIA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -821,8 +821,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
