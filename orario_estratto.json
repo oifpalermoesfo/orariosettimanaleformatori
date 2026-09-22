@@ -457,8 +457,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -471,8 +471,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "TRIPOLI DIEGO",
         "SUPPLITO": ""
     },
     {
@@ -527,8 +527,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -541,8 +541,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "TRIPOLI DIEGO",
         "SUPPLITO": ""
     },
     {
@@ -625,8 +625,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "INGLESE",
+        "FORMATORE": "GIUFFRE' PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -695,8 +695,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "INGLESE",
+        "FORMATORE": "GIUFFRE' PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -751,8 +751,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -765,8 +765,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
+        "FORMATORE": "ALBERELLI GAETANA",
         "SUPPLITO": ""
     },
     {
@@ -821,8 +821,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -835,8 +835,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
+        "FORMATORE": "ALBERELLI GAETANA",
         "SUPPLITO": ""
     },
     {
@@ -877,8 +877,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "SEGGIO IOLANDA",
+        "MODULO": "SCIENZE MOTORIE",
+        "FORMATORE": "DI MICELI VALERIA",
         "SUPPLITO": ""
     },
     {
@@ -891,8 +891,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -905,8 +905,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "SCIENZE MOTORIE",
+        "FORMATORE": "DI MICELI VALERIA",
         "SUPPLITO": ""
     },
     {
@@ -947,6 +947,20 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
+        "MODULO": "SCIENZE MOTORIE",
+        "FORMATORE": "DI MICELI VALERIA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "MILLE",
+        "CLASSE": "1C",
+        "IDCORSO": " ID322",
+        "CLASSE_SEZIONE": "1C ID322",
+        "DATAOR": "24-09-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
         "MODULO": "MATEMATICA",
         "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
@@ -956,27 +970,13 @@
         "CLASSE": "1C",
         "IDCORSO": " ID322",
         "CLASSE_SEZIONE": "1C ID322",
-        "DATAOR": "24-09-2026",
-        "ORARIO": "09:00 - 10:00",
-        "NUM": "2",
-        "INIZIO": "09:00",
-        "FINE": "10:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MILLE",
-        "CLASSE": "1C",
-        "IDCORSO": " ID322",
-        "CLASSE_SEZIONE": "1C ID322",
         "DATAOR": "25-09-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "SCIENZE MOTORIE",
+        "FORMATORE": "DI MICELI VALERIA",
         "SUPPLITO": ""
     },
     {
@@ -1017,8 +1017,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
         "SUPPLITO": ""
     },
     {
@@ -1031,8 +1031,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "TRIPOLI DIEGO",
         "SUPPLITO": ""
     },
     {
@@ -1087,6 +1087,20 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "MILLE",
+        "CLASSE": "1C",
+        "IDCORSO": " ID322",
+        "CLASSE_SEZIONE": "1C ID322",
+        "DATAOR": "24-09-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
         "MODULO": "SCIENZE INTEGRATE",
         "FORMATORE": "TRIPOLI DIEGO",
         "SUPPLITO": ""
@@ -1096,27 +1110,13 @@
         "CLASSE": "1C",
         "IDCORSO": " ID322",
         "CLASSE_SEZIONE": "1C ID322",
-        "DATAOR": "24-09-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MILLE",
-        "CLASSE": "1C",
-        "IDCORSO": " ID322",
-        "CLASSE_SEZIONE": "1C ID322",
         "DATAOR": "25-09-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "GIUFFRE' PAOLA",
+        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
+        "FORMATORE": "ALBERELLI GAETANA",
         "SUPPLITO": ""
     },
     {
@@ -1325,8 +1325,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "SPARACIO GIUSEPPE",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1395,8 +1395,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "SPARACIO GIUSEPPE",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1465,8 +1465,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-DETERSIONE E ACCONCIATURA",
-        "FORMATORE": "SPARACIO GIUSEPPE",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1535,8 +1535,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1605,8 +1605,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1675,8 +1675,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1731,8 +1731,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "GEOGRAFIA ECONOMICA",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1801,8 +1801,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "GEOGRAFIA ECONOMICA",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -2123,8 +2123,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2193,8 +2193,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2263,8 +2263,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2445,8 +2445,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "FERRARA GIUSEPPE",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2515,8 +2515,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "FERRARA GIUSEPPE",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2935,8 +2935,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "DI BLASI FELICIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -2993,20 +2993,6 @@
         "FINE": "12:00",
         "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MIRANDOLA",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "22-09-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -3061,8 +3047,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "DI BLASI FELICIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -3119,20 +3105,6 @@
         "FINE": "13:00",
         "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MIRANDOLA",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "22-09-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -3187,8 +3159,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "DI BLASI FELICIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -3245,20 +3217,6 @@
         "FINE": "14:00",
         "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "MIRANDOLA",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "22-09-2026",
-        "ORARIO": "13:00 - 14:00",
-        "NUM": "6",
-        "INIZIO": "13:00",
-        "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -3593,8 +3551,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-TAGLIO BASE UOMO",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -3607,8 +3565,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "PROMOZIONE E VENDITA PRODOTTI TRICOLOGICI",
+        "FORMATORE": "VASTA FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -3663,8 +3621,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "CARTA DEI DIRITTI FONDAMENTALI DELL'UE",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-TAGLIO BASE UOMO",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -3677,8 +3635,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "PROMOZIONE E VENDITA PRODOTTI TRICOLOGICI",
+        "FORMATORE": "VASTA FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -3873,8 +3831,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -3943,8 +3901,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -4433,8 +4391,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
@@ -4503,8 +4461,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
@@ -5021,8 +4979,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GULLO ALESSANDRA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5091,8 +5049,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GULLO ALESSANDRA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5161,8 +5119,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GULLO ALESSANDRA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5231,8 +5189,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "GULLO ALESSANDRA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5455,8 +5413,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5525,8 +5483,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5595,8 +5553,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -6043,8 +6001,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "DI BLASI FELICIA",
         "SUPPLITO": ""
     },
     {
@@ -6085,8 +6043,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -6113,8 +6071,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "DI BLASI FELICIA",
         "SUPPLITO": ""
     },
     {
@@ -6155,8 +6113,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -6183,8 +6141,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "DI BLASI FELICIA",
         "SUPPLITO": ""
     },
     {
@@ -6225,8 +6183,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -6421,8 +6379,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
         "SUPPLITO": ""
     },
     {
@@ -6463,8 +6421,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -6491,8 +6449,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
         "SUPPLITO": ""
     },
     {
@@ -6533,8 +6491,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -6603,8 +6561,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -7555,8 +7513,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "GIUFFRE' PAOLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -7625,8 +7583,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "GIUFFRE' PAOLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -7695,8 +7653,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "GIUFFRE' PAOLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -7933,8 +7891,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "MANTO DANIELE",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -8003,8 +7961,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "MANTO DANIELE",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -8073,8 +8031,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "MANTO DANIELE",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -8381,8 +8339,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "RUSTICANO MARIA CRISTINA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -8451,8 +8409,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "RUSTICANO MARIA CRISTINA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -8521,8 +8479,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "RUSTICANO MARIA CRISTINA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -8591,8 +8549,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "RUSTICANO MARIA CRISTINA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "GULLO ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -8913,8 +8871,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -8983,8 +8941,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -9053,8 +9011,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -9123,8 +9081,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
         "SUPPLITO": ""
     },
     {
