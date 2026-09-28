@@ -807,8 +807,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "GEOGRAFIA ECONOMICA",
+        "FORMATORE": "REALMUTO LUCIA",
         "SUPPLITO": ""
     },
     {
@@ -1269,8 +1269,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
-        "FORMATORE": "CALI' PIETRO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1283,8 +1283,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "CAMPANELLA GIACOMO",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1339,8 +1339,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
-        "FORMATORE": "CALI' PIETRO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1367,8 +1367,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "UTILIZZO E MANUTENZIONE DI STRUMENTI E ATTREZZATURE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1423,8 +1423,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "UTILIZZO E MANUTENZIONE DI STRUMENTI E ATTREZZATURE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1437,8 +1437,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "UTILIZZO E MANUTENZIONE DI STRUMENTI E ATTREZZATURE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1493,8 +1493,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1563,8 +1563,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "ECONOMIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1633,8 +1633,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ECONOMIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1955,8 +1955,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "GIANGRECO GIUSEPPE ANTONIO",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ESTETICA",
+        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -2025,8 +2025,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "GEOGRAFIA ECONOMICA",
-        "FORMATORE": "CAMPANELLA GIACOMO",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ESTETICA",
+        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -2095,8 +2095,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "FERRARA GIUSEPPE",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ESTETICA",
+        "FORMATORE": "SENNECA SONIA",
         "SUPPLITO": ""
     },
     {
@@ -2109,8 +2109,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE CUCINA-LA BRIGATA DI CUCINA",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2166,20 +2166,6 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
-        "FORMATORE": "DI BELLA CLAUDIO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "1G",
-        "IDCORSO": " ID354",
-        "CLASSE_SEZIONE": "1G ID354",
-        "DATAOR": "28-09-2026",
-        "ORARIO": "08:00 - 09:00",
-        "NUM": "1",
-        "INIZIO": "08:00",
-        "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE MECCATRONICO-LABORATORIO MECCANICO",
         "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
@@ -2655,7 +2641,7 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
         "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
@@ -2963,8 +2949,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "DI BLASI FELICIA",
+        "MODULO": "DIRITTO",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -2991,8 +2977,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LE RICHIESTE DELLA CLIENTELA IN SALA",
-        "FORMATORE": "PIPARO MICHELE VITO",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -3007,34 +2993,6 @@
         "FINE": "12:00",
         "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "30-09-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "02-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -3075,8 +3033,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "DI BLASI FELICIA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -3103,8 +3061,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LE RICHIESTE DELLA CLIENTELA IN SALA",
-        "FORMATORE": "PIPARO MICHELE VITO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -3119,34 +3077,6 @@
         "FINE": "13:00",
         "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "30-09-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "02-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -3187,8 +3117,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "DI BLASI FELICIA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MANTO DANIELE",
         "SUPPLITO": ""
     },
     {
@@ -3215,8 +3145,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LE RICHIESTE DELLA CLIENTELA IN SALA",
-        "FORMATORE": "PIPARO MICHELE VITO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -3231,34 +3161,6 @@
         "FINE": "14:00",
         "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
         "FORMATORE": "BARRANCA EMILIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "30-09-2026",
-        "ORARIO": "13:00 - 14:00",
-        "NUM": "6",
-        "INIZIO": "13:00",
-        "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
-        "CLASSE": "2A",
-        "IDCORSO": " ID102",
-        "CLASSE_SEZIONE": "2A ID102",
-        "DATAOR": "02-10-2026",
-        "ORARIO": "13:00 - 14:00",
-        "NUM": "6",
-        "INIZIO": "13:00",
-        "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MASSAGGIO LINFODRENANTE",
-        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -3985,8 +3887,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "COMUNICAZIONE NON VERBALE",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "SANICOLA SANTINO",
         "SUPPLITO": ""
     },
     {
@@ -3999,8 +3901,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "COMUNICAZIONE NON VERBALE",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-ACCONCIATURA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -4069,8 +3971,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "CICLI DI LAVORO E RUOLI",
-        "FORMATORE": "AMICO SERENA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-ACCONCIATURA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -5007,8 +4909,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
-        "FORMATORE": "BARRANCA EMILIA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -5077,8 +4979,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
-        "FORMATORE": "BARRANCA EMILIA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -5147,8 +5049,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
-        "FORMATORE": "BARRANCA EMILIA",
+        "MODULO": "SCIENZE INTEGRATE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -5427,8 +5329,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "I SERVIZI RISTORATIVI",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "NUCCIO FRANCESCO PAOLO",
         "SUPPLITO": ""
     },
     {
@@ -5437,20 +5339,6 @@
         "IDCORSO": " ID109",
         "CLASSE_SEZIONE": "2H ID109",
         "DATAOR": "30-09-2026",
-        "ORARIO": "08:00 - 09:00",
-        "NUM": "1",
-        "INIZIO": "08:00",
-        "FINE": "09:00",
-        "MODULO": "MANUTENZIONE MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "2H",
-        "IDCORSO": " ID109",
-        "CLASSE_SEZIONE": "2H ID109",
-        "DATAOR": "02-10-2026",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
         "INIZIO": "08:00",
@@ -5525,8 +5413,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "I SERVIZI RISTORATIVI",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "NUCCIO FRANCESCO PAOLO",
         "SUPPLITO": ""
     },
     {
@@ -5535,20 +5423,6 @@
         "IDCORSO": " ID109",
         "CLASSE_SEZIONE": "2H ID109",
         "DATAOR": "30-09-2026",
-        "ORARIO": "09:00 - 10:00",
-        "NUM": "2",
-        "INIZIO": "09:00",
-        "FINE": "10:00",
-        "MODULO": "MANUTENZIONE MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "2H",
-        "IDCORSO": " ID109",
-        "CLASSE_SEZIONE": "2H ID109",
-        "DATAOR": "02-10-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
         "INIZIO": "09:00",
@@ -5735,8 +5609,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "I SERVIZI RISTORATIVI",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -5793,20 +5667,6 @@
         "FINE": "13:00",
         "MODULO": "INGLESE",
         "FORMATORE": "STASSI PAOLA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "2H",
-        "IDCORSO": " ID109",
-        "CLASSE_SEZIONE": "2H ID109",
-        "DATAOR": "28-09-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "AUTRONICA",
-        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -5833,8 +5693,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "I SERVIZI RISTORATIVI",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -5891,20 +5751,6 @@
         "FINE": "14:00",
         "MODULO": "INGLESE",
         "FORMATORE": "STASSI PAOLA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "2H",
-        "IDCORSO": " ID109",
-        "CLASSE_SEZIONE": "2H ID109",
-        "DATAOR": "28-09-2026",
-        "ORARIO": "13:00 - 14:00",
-        "NUM": "6",
-        "INIZIO": "13:00",
-        "FINE": "14:00",
-        "MODULO": "AUTRONICA",
-        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -6169,8 +6015,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "DI BLASI FELICIA",
         "SUPPLITO": ""
     },
     {
@@ -6239,8 +6085,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "DI BLASI FELICIA",
         "SUPPLITO": ""
     },
     {
@@ -6309,8 +6155,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "DI BLASI FELICIA",
         "SUPPLITO": ""
     },
     {
@@ -6351,8 +6197,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "GIANNOLA SALVATORE",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO UOMO INTERMEDIO",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -6421,8 +6267,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "GIANNOLA SALVATORE",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO UOMO INTERMEDIO",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -6519,8 +6365,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ORIENTAMENTO IN USCITA",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -6589,8 +6435,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "ORIENTAMENTO IN USCITA",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -6995,8 +6841,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "LEONE ROSARIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -7065,8 +6911,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
-        "FORMATORE": "SANICOLA SANTINO",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -7135,8 +6981,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ORIENTAMENTO IN ITINERE",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -7345,8 +7191,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ORIENTAMENTO IN USCITA",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -7835,8 +7681,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "ORIENTAMENTO IN ITINERE",
-        "FORMATORE": "PERDICHIZZI GIULIA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
@@ -8507,8 +8353,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA- TRATTAMENTI VISO SULLA BASE DELL'ANAMNESI",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -8577,8 +8423,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA- TRATTAMENTI VISO SULLA BASE DELL'ANAMNESI",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -8619,8 +8465,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-TRUCCO SPOSA",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8647,8 +8493,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA- TRATTAMENTI VISO SULLA BASE DELL'ANAMNESI",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -8689,8 +8535,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-TRUCCO SPOSA",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8717,8 +8563,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-MASSAGGIO CONNETTIVO MODELLANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8759,8 +8605,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-MASSAGGIO CONNETTIVO MODELLANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8787,8 +8633,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-MASSAGGIO CONNETTIVO MODELLANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8829,8 +8675,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-MASSAGGIO CONNETTIVO MODELLANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8857,8 +8703,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-ANAMNESI TOTAL BODY",
-        "FORMATORE": "SENNECA SONIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ESTETICA-MASSAGGIO CONNETTIVO MODELLANTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -8955,8 +8801,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-CIRCUITI E SISTEMI MECCATRONICI",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "LINGUA E LETTERATURA ITALIANA",
+        "FORMATORE": "FERRARA GIUSEPPE",
         "SUPPLITO": ""
     },
     {
@@ -9020,20 +8866,6 @@
         "CLASSE": "3H",
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
-        "DATAOR": "28-09-2026",
-        "ORARIO": "09:00 - 10:00",
-        "NUM": "2",
-        "INIZIO": "09:00",
-        "FINE": "10:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-PREPARAZIONI BIO",
-        "FORMATORE": "DAVI' GIACOMO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "3H",
-        "IDCORSO": " ID137",
-        "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "29-09-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -9067,8 +8899,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-CIRCUITI E SISTEMI MECCATRONICI",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -9123,22 +8955,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-RIPARAZIONE DEI VEICOLI A MOTORE",
-        "FORMATORE": "GIULIANO PIETRO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "3H",
-        "IDCORSO": " ID137",
-        "CLASSE_SEZIONE": "3H ID137",
-        "DATAOR": "28-09-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-PREPARAZIONI BIO",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -9174,27 +8992,13 @@
         "CLASSE": "3H",
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
-        "DATAOR": "02-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-PREPARAZIONI BIO",
-        "FORMATORE": "DAVI' GIACOMO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "3H",
-        "IDCORSO": " ID137",
-        "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "28-09-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-CIRCUITI E SISTEMI MECCATRONICI",
-        "FORMATORE": "DI BELLA CLAUDIO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -9249,22 +9053,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-RIPARAZIONE DEI VEICOLI A MOTORE",
-        "FORMATORE": "GIULIANO PIETRO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "3H",
-        "IDCORSO": " ID137",
-        "CLASSE_SEZIONE": "3H ID137",
-        "DATAOR": "28-09-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-PREPARAZIONI BIO",
-        "FORMATORE": "DAVI' GIACOMO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -9279,20 +9069,6 @@
         "FINE": "12:00",
         "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-CUCINA INTERNAZIONALE",
         "FORMATORE": "CAVATAIO BENEDETTO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "3H",
-        "IDCORSO": " ID137",
-        "CLASSE_SEZIONE": "3H ID137",
-        "DATAOR": "02-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-PREPARAZIONI BIO",
-        "FORMATORE": "DAVI' GIACOMO",
         "SUPPLITO": ""
     },
     {
