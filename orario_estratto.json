@@ -2291,8 +2291,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE CUCINA-PASTICCERIA",
-        "FORMATORE": "CASTROVINCI STEFANIA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2321,20 +2321,6 @@
         "FINE": "11:00",
         "MODULO": "INGLESE",
         "FORMATORE": "STASSI PAOLA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "1G",
-        "IDCORSO": " ID354",
-        "CLASSE_SEZIONE": "1G ID354",
-        "DATAOR": "30-09-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "I MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -2375,8 +2361,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE CUCINA-PASTICCERIA",
-        "FORMATORE": "CASTROVINCI STEFANIA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2413,20 +2399,6 @@
         "IDCORSO": " ID354",
         "CLASSE_SEZIONE": "1G ID354",
         "DATAOR": "29-09-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "I MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "1G",
-        "IDCORSO": " ID354",
-        "CLASSE_SEZIONE": "1G ID354",
-        "DATAOR": "30-09-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
         "INIZIO": "11:00",
@@ -5301,8 +5273,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA-PASTICCERIA CLASSICA",
-        "FORMATORE": "CASTROVINCI STEFANIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5331,20 +5303,6 @@
         "FINE": "09:00",
         "MODULO": "MATEMATICA",
         "FORMATORE": "NUCCIO FRANCESCO PAOLO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "2H",
-        "IDCORSO": " ID109",
-        "CLASSE_SEZIONE": "2H ID109",
-        "DATAOR": "30-09-2026",
-        "ORARIO": "08:00 - 09:00",
-        "NUM": "1",
-        "INIZIO": "08:00",
-        "FINE": "09:00",
-        "MODULO": "MANUTENZIONE MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -5385,8 +5343,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA-PASTICCERIA CLASSICA",
-        "FORMATORE": "CASTROVINCI STEFANIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5415,20 +5373,6 @@
         "FINE": "10:00",
         "MODULO": "MATEMATICA",
         "FORMATORE": "NUCCIO FRANCESCO PAOLO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
-        "CLASSE": "2H",
-        "IDCORSO": " ID109",
-        "CLASSE_SEZIONE": "2H ID109",
-        "DATAOR": "30-09-2026",
-        "ORARIO": "09:00 - 10:00",
-        "NUM": "2",
-        "INIZIO": "09:00",
-        "FINE": "10:00",
-        "MODULO": "MANUTENZIONE MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -5553,8 +5497,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "CASTELLANO SARA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -5637,8 +5581,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -5721,8 +5665,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
