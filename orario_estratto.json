@@ -2221,8 +2221,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -2907,8 +2907,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "CACI MARILENA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-ACCONCIATURA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -2959,6 +2959,20 @@
         "IDCORSO": " ID102",
         "CLASSE_SEZIONE": "2A ID102",
         "DATAOR": "28-09-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
+        "FORMATORE": "BARRANCA EMILIA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "Via Pico della Mirandola, 34\/B, 90145, Palermo (PA)",
+        "CLASSE": "2A",
+        "IDCORSO": " ID102",
+        "CLASSE_SEZIONE": "2A ID102",
+        "DATAOR": "29-09-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
         "INIZIO": "11:00",
@@ -4293,8 +4307,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "COMUNICAZIONE E SOCIAL MEDIA",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "SVILUPPO SOSTENIBILE AMBIENTALE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4363,8 +4377,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "COMUNICAZIONE E SOCIAL MEDIA",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "SVILUPPO SOSTENIBILE AMBIENTALE",
+        "FORMATORE": "MELI CARLA",
         "SUPPLITO": ""
     },
     {
@@ -4993,8 +5007,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "COMUNICAZIONE NON VERBALE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -7709,8 +7723,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -7779,8 +7793,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -8269,8 +8283,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "GULLO ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -8689,8 +8703,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "ORIENTAMENTO IN ITINERE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
