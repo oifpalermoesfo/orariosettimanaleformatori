@@ -1619,8 +1619,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -1857,8 +1857,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ESTETICA- PULIZIA DEL VISO",
-        "FORMATORE": "BARRANCA EMILIA",
+        "MODULO": "STATISTICA DESCRITTIVA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -1927,8 +1927,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ESTETICA- PULIZIA DEL VISO",
-        "FORMATORE": "BARRANCA EMILIA",
+        "MODULO": "STATISTICA DESCRITTIVA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -2109,8 +2109,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -2193,8 +2193,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "GEOMETRIA",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -5021,8 +5021,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -5091,8 +5091,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-MANICURE\/PEDICURE",
+        "FORMATORE": "BARRANCA EMILIA",
         "SUPPLITO": ""
     },
     {
@@ -5469,8 +5469,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SVILUPPO SOSTENIBILE AMBIENTALE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
+        "FORMATORE": "ALBERELLI GAETANA",
         "SUPPLITO": ""
     },
     {
@@ -5553,8 +5553,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SVILUPPO SOSTENIBILE AMBIENTALE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "NUCCIO FRANCESCO PAOLO",
         "SUPPLITO": ""
     },
     {
