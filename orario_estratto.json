@@ -5301,8 +5301,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -5399,8 +5399,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "STASSI PAOLA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "MICELI ANTONELLA",
         "SUPPLITO": ""
     },
     {
@@ -5665,8 +5665,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "COMUNICAZIONE NON VERBALE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -5735,8 +5735,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
