@@ -527,8 +527,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SCIENZE MOTORIE",
-        "FORMATORE": "DI MICELI VALERIA",
+        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
+        "FORMATORE": "AMICO SERENA",
         "SUPPLITO": ""
     },
     {
@@ -555,8 +555,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ACCONCIATURA",
+        "FORMATORE": "BELLAVISTA SARA",
         "SUPPLITO": ""
     },
     {
@@ -639,8 +639,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ACCONCIATURA",
+        "FORMATORE": "BELLAVISTA SARA",
         "SUPPLITO": ""
     },
     {
@@ -723,8 +723,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA-PERMANENTE",
+        "FORMATORE": "BELLAVISTA SARA",
         "SUPPLITO": ""
     },
     {
@@ -807,8 +807,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "CARTA DEI DIRITTI FONDAMENTALI DELL'UE",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA-PERMANENTE",
+        "FORMATORE": "BELLAVISTA SARA",
         "SUPPLITO": ""
     },
     {
@@ -919,8 +919,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
-        "FORMATORE": "ALBERELLI GAETANA",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
@@ -1003,8 +1003,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "RELIGIONE E\/O ATTIVITA' ALTERNATIVE",
-        "FORMATORE": "ALBERELLI GAETANA",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
@@ -1059,8 +1059,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
+        "FORMATORE": "GENUARDI ALESSIA",
         "SUPPLITO": ""
     },
     {
@@ -1143,8 +1143,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO BASE ESTETICA-EPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
+        "FORMATORE": "GENUARDI ALESSIA",
         "SUPPLITO": ""
     },
     {
@@ -1227,8 +1227,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ESTETICA",
+        "FORMATORE": "GENUARDI ALESSIA",
         "SUPPLITO": ""
     },
     {
@@ -1311,8 +1311,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "ACCOGLIENZA DEL CLIENTE IN ESTETICA",
+        "FORMATORE": "GENUARDI ALESSIA",
         "SUPPLITO": ""
     },
     {
@@ -2557,8 +2557,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -2628,6 +2628,20 @@
         "INIZIO": "08:00",
         "FINE": "09:00",
         "MODULO": "I MOTORI",
+        "FORMATORE": "GIULIANO PIETRO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "1G",
+        "IDCORSO": " ID354",
+        "CLASSE_SEZIONE": "1G ID354",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO-LABORATORIO MECCANICO",
         "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
@@ -2697,8 +2711,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "MELI CARLA",
+        "MODULO": "LABORATORIO BASE CUCINA-GASTRONOMIA",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -2768,6 +2782,20 @@
         "INIZIO": "09:00",
         "FINE": "10:00",
         "MODULO": "I MOTORI",
+        "FORMATORE": "GIULIANO PIETRO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "1G",
+        "IDCORSO": " ID354",
+        "CLASSE_SEZIONE": "1G ID354",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "LABORATORIO BASE MECCATRONICO-LABORATORIO MECCANICO",
         "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
@@ -4195,8 +4223,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -4279,8 +4307,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -4363,8 +4391,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -4447,8 +4475,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SCIENZE INTEGRATE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -4531,8 +4559,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -4615,8 +4643,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -4867,8 +4895,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "CARTA DEI DIRITTI FONDAMENTALI DELL'UE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
@@ -4951,8 +4979,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
-        "FORMATORE": "CARACAUSI FRANCA",
+        "MODULO": "CARTA DEI DIRITTI FONDAMENTALI DELL'UE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
@@ -5035,8 +5063,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "GENUARDI ALESSIA",
         "SUPPLITO": ""
     },
     {
@@ -5119,8 +5147,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "GENUARDI ALESSIA",
         "SUPPLITO": ""
     },
     {
@@ -5161,8 +5189,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "BELLA ALESSIA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -5175,8 +5203,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
@@ -5245,8 +5273,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "ORIENTAMENTO",
+        "FORMATORE": "BELLA ALESSIA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -5259,8 +5287,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-EPILAZIONE E DEPILAZIONE",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
@@ -5329,8 +5357,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-TRUCCO GIORNO\/SERA",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "CARTA DEI DIRITTI FONDAMENTALI DELL'UE",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -5371,8 +5399,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "COMUNICAZIONE E SOCIAL MEDIA",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -5413,8 +5441,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-TRUCCO GIORNO\/SERA",
-        "FORMATORE": "PATERNA DANIELA",
+        "MODULO": "DIRITTO",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -5455,8 +5483,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "COMUNICAZIONE E SOCIAL MEDIA",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
         "SUPPLITO": ""
     },
     {
@@ -6841,8 +6869,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA-CUCINA LOCALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -6885,6 +6913,20 @@
         "FINE": "13:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
         "FORMATORE": "GARGANO LEONARDO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "2H",
+        "IDCORSO": " ID109",
+        "CLASSE_SEZIONE": "2H ID109",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "MANUTENZIONE MOTORI",
+        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -6939,8 +6981,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "LABORATORIO INTERMEDIO DI CUCINA-CUCINA LOCALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -6983,6 +7025,20 @@
         "FINE": "14:00",
         "MODULO": "EDUCAZIONE FISICA E MOTORIA",
         "FORMATORE": "GARGANO LEONARDO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "2H",
+        "IDCORSO": " ID109",
+        "CLASSE_SEZIONE": "2H ID109",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "13:00 - 14:00",
+        "NUM": "6",
+        "INIZIO": "13:00",
+        "FINE": "14:00",
+        "MODULO": "MANUTENZIONE MOTORI",
+        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -7569,8 +7625,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "DI MICELI VALERIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -7583,8 +7639,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -7653,8 +7709,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "DI MICELI VALERIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -7667,8 +7723,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -7891,8 +7947,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "VASTA FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -7919,8 +7975,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ACCONCIATURA AVANZATA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -7975,8 +8031,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "VASTA FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -8003,8 +8059,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ACCONCIATURA AVANZATA",
+        "FORMATORE": "CATANZARO ANNALISA",
         "SUPPLITO": ""
     },
     {
@@ -8087,8 +8143,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "STORIA DELL'ARTE",
-        "FORMATORE": "LEONE ROSARIA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "SANICOLA SANTINO",
         "SUPPLITO": ""
     },
     {
@@ -8171,6 +8227,258 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "SANICOLA SANTINO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "12-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "VASTA FRANCESCO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "13-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "15-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "16-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "17-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "12-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
+        "FORMATORE": "VASTA FRANCESCO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "13-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
+        "FORMATORE": "CATANZARO ANNALISA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "15-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "16-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "17-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "12-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
+        "FORMATORE": "CATANZARO ANNALISA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "13-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "LINGUA E LETTERATURA INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "14-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TECNICHE DI STIRAGGIO",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "15-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TECNICHE DI STIRAGGIO",
+        "FORMATORE": "CATANZARO DOMENICO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "16-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PARRINELLO FRANCESCO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3C",
+        "IDCORSO": " ID132",
+        "CLASSE_SEZIONE": "3C ID132",
+        "DATAOR": "17-10-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
         "MODULO": "STORIA DELL'ARTE",
         "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
@@ -8181,258 +8489,6 @@
         "IDCORSO": " ID132",
         "CLASSE_SEZIONE": "3C ID132",
         "DATAOR": "12-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
-        "FORMATORE": "VASTA FRANCESCO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "13-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PARRINELLO FRANCESCO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "14-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "15-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "16-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "17-10-2026",
-        "ORARIO": "10:00 - 11:00",
-        "NUM": "3",
-        "INIZIO": "10:00",
-        "FINE": "11:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "12-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-COLORIMETRIA AVANZATA",
-        "FORMATORE": "VASTA FRANCESCO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "13-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
-        "FORMATORE": "CATANZARO ANNALISA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "14-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "15-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "16-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "17-10-2026",
-        "ORARIO": "11:00 - 12:00",
-        "NUM": "4",
-        "INIZIO": "11:00",
-        "FINE": "12:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "12-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TAGLIO DONNA INTERMEDIO",
-        "FORMATORE": "CATANZARO ANNALISA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "13-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "14-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TECNICHE DI STIRAGGIO",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "15-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-TECNICHE DI STIRAGGIO",
-        "FORMATORE": "CATANZARO DOMENICO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "16-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PARRINELLO FRANCESCO",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "17-10-2026",
-        "ORARIO": "12:00 - 13:00",
-        "NUM": "5",
-        "INIZIO": "12:00",
-        "FINE": "13:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
-        "SUPPLITO": ""
-    },
-    {
-        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
-        "CLASSE": "3C",
-        "IDCORSO": " ID132",
-        "CLASSE_SEZIONE": "3C ID132",
-        "DATAOR": "12-10-2026",
         "ORARIO": "13:00 - 14:00",
         "NUM": "6",
         "INIZIO": "13:00",
@@ -8507,8 +8563,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "LEONE ROSARIA",
         "SUPPLITO": ""
     },
     {
@@ -8759,8 +8815,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -8843,8 +8899,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
-        "FORMATORE": "TRIPOLI DIEGO",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "EMANUELE NADIA TERESA MARIA",
         "SUPPLITO": ""
     },
     {
@@ -10761,8 +10817,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ORIENTAMENTO IN USCITA",
-        "FORMATORE": "CACI MARILENA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-RIPARAZIONE DEI VEICOLI A MOTORE",
+        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -10813,6 +10869,20 @@
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "13-10-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-CUCINA INTERNAZIONALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "14-10-2026",
         "ORARIO": "10:00 - 11:00",
         "NUM": "3",
         "INIZIO": "10:00",
@@ -10887,8 +10957,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "GARGANO LEONARDO",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI MECCATRONICA-RIPARAZIONE DEI VEICOLI A MOTORE",
+        "FORMATORE": "GIULIANO PIETRO",
         "SUPPLITO": ""
     },
     {
@@ -10939,6 +11009,20 @@
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "13-10-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-CUCINA INTERNAZIONALE",
+        "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "14-10-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
         "INIZIO": "11:00",
