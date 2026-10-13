@@ -1577,8 +1577,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "CAMPANELLA GIACOMO",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1661,8 +1661,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "ITALIANO",
-        "FORMATORE": "CAMPANELLA GIACOMO",
+        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
+        "FORMATORE": "SALERNO FRANCESCO",
         "SUPPLITO": ""
     },
     {
@@ -1745,8 +1745,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
@@ -1829,8 +1829,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA- COLORIMETRIA DI BASE",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
@@ -1913,8 +1913,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -1997,8 +1997,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "LABORATORIO BASE ACCONCIATURA-TEORIA DEL TAGLIO",
-        "FORMATORE": "SALERNO FRANCESCO",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -10747,8 +10747,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA ITALIANA",
-        "FORMATORE": "FERRARA GIUSEPPE",
+        "MODULO": "SOSTENIBILITA' AMBIENTALE E SOCIALE",
+        "FORMATORE": "TARAVELLA GANDOLFO",
         "SUPPLITO": ""
     },
     {
