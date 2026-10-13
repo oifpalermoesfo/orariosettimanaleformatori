@@ -205,8 +205,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PIRRONE VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -289,8 +289,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
+        "FORMATORE": "PIRRONE VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -303,8 +303,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "STATISTICA DESCRITTIVA",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "SAVOCA ALESSANDRA",
         "SUPPLITO": ""
     },
     {
@@ -2459,8 +2459,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "INGLESE",
+        "FORMATORE": "STASSI PAOLA",
         "SUPPLITO": ""
     },
     {
@@ -3075,8 +3075,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "MANGANO DANIELA",
+        "MODULO": "ALTERNANZA SIMULATA-ASSEGNAZIONE COMPITI DI REALTA'",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -3523,8 +3523,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "CARTA DEI DIRITTI FONDAMENTALI DELL'UE",
-        "FORMATORE": "TERMINELLI ANTONINO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -3649,8 +3649,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "TERMINELLI ANTONINO",
+        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
+        "FORMATORE": "GARGANO LEONARDO",
         "SUPPLITO": ""
     },
     {
@@ -3775,8 +3775,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "DIRITTO",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -3901,8 +3901,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "TERMINELLI ANTONINO",
         "SUPPLITO": ""
     },
     {
@@ -6351,8 +6351,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "COMUNICAZIONE NON VERBALE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "DIRITTO",
+        "FORMATORE": "MANGANO DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -6687,8 +6687,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -6771,8 +6771,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "ORIENTAMENTO",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "CICLI DI LAVORO E RUOLI",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -7093,8 +7093,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "PIRRONE VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -7107,8 +7107,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ACCONCIATURA AVANZATA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -7177,8 +7177,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LINGUA E LETTERATURA INGLESE",
-        "FORMATORE": "SAVOCA ALESSANDRA",
+        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
+        "FORMATORE": "PIRRONE VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -7191,8 +7191,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ACCONCIATURA AVANZATA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -7275,8 +7275,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "SICUREZZA PREVENZIONE ED IGIENE SUL LAVORO",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA- ASCIUGATURA AVANZATA",
+        "FORMATORE": "STORNIOLO VERONICA",
         "SUPPLITO": ""
     },
     {
@@ -9823,8 +9823,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -9907,8 +9907,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "INFORMATICA E COMPETENZE DIGITALI",
-        "FORMATORE": "PIRRONE VERONICA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "CAMPANELLA GIACOMO",
         "SUPPLITO": ""
     },
     {
@@ -10103,8 +10103,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "ORIENTAMENTO IN ITINERE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "CASTELLANO SARA",
         "SUPPLITO": ""
     },
     {
@@ -10187,8 +10187,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "ORIENTAMENTO IN ITINERE",
-        "FORMATORE": "MICELI ANTONELLA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "CASTELLANO SARA",
         "SUPPLITO": ""
     },
     {
