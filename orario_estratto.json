@@ -471,8 +471,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
-        "FORMATORE": "AMICO SERENA",
+        "MODULO": "ECONOMIA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -541,8 +541,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "PIANIFICAZIONE DELLE FASI DI LAVORO",
-        "FORMATORE": "AMICO SERENA",
+        "MODULO": "MATEMATICA",
+        "FORMATORE": "SEGGIO IOLANDA",
         "SUPPLITO": ""
     },
     {
@@ -3817,8 +3817,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "CICLI DI LAVORO E RUOLI",
-        "FORMATORE": "AMICO SERENA",
+        "MODULO": "DIRITTO",
+        "FORMATORE": "TRIPOLI PROVVIDENZA",
         "SUPPLITO": ""
     },
     {
