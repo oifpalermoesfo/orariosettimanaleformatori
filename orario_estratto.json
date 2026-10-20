@@ -765,8 +765,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "UTILIZZO E MANUTENZIONE DI STRUMENTI E ATTREZZATURE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -1045,8 +1045,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "ITALIANO",
+        "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
         "SUPPLITO": ""
     },
     {
@@ -3621,8 +3621,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "DIRITTO",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -4181,8 +4181,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "STORIA DELL'ARTE",
+        "FORMATORE": "FORESTA ROSALIA",
         "SUPPLITO": ""
     },
     {
@@ -6715,8 +6715,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
-        "FORMATORE": "TRIPOLI PROVVIDENZA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "SANICOLA SANTINO",
         "SUPPLITO": ""
     },
     {
