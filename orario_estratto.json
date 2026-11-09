@@ -6379,8 +6379,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO- MANUTENZIONE STRAORDINARIA MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
+        "MODULO": "AUTRONICA",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -6491,8 +6491,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "LABORATORIO INTERMEDIO MECCATRONICO- MANUTENZIONE STRAORDINARIA MOTORI",
-        "FORMATORE": "GIULIANO PIETRO",
+        "MODULO": "AUTRONICA",
+        "FORMATORE": "DI BELLA CLAUDIO",
         "SUPPLITO": ""
     },
     {
@@ -10420,6 +10420,20 @@
         "CLASSE": "3H",
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "09-11-2026",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "AMOROSO MONICA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "10-11-2026",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
@@ -10532,6 +10546,20 @@
         "CLASSE": "3H",
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "09-11-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "AMOROSO MONICA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "10-11-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -10637,6 +10665,20 @@
         "FINE": "11:00",
         "MODULO": "LABORATORIO SEMIAVANZATO DI CUCINA-CONSERVAZIONE DEI PRODOTTI FINITI E CONFEZIONAMENTO",
         "FORMATORE": "DAVI' GIACOMO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "09-11-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "AMOROSO MONICA",
         "SUPPLITO": ""
     },
     {
