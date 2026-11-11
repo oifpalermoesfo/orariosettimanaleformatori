@@ -3812,6 +3812,20 @@
         "CLASSE": "2B",
         "IDCORSO": " ID103",
         "CLASSE_SEZIONE": "2B ID103",
+        "DATAOR": "11-11-2026",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CASTELLANO SARA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "2B",
+        "IDCORSO": " ID103",
+        "CLASSE_SEZIONE": "2B ID103",
         "DATAOR": "12-11-2026",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
@@ -3896,6 +3910,20 @@
         "CLASSE": "2B",
         "IDCORSO": " ID103",
         "CLASSE_SEZIONE": "2B ID103",
+        "DATAOR": "11-11-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CASTELLANO SARA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "2B",
+        "IDCORSO": " ID103",
+        "CLASSE_SEZIONE": "2B ID103",
         "DATAOR": "12-11-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -3973,6 +4001,20 @@
         "FINE": "11:00",
         "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
         "FORMATORE": "CARACAUSI FRANCA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "2B",
+        "IDCORSO": " ID103",
+        "CLASSE_SEZIONE": "2B ID103",
+        "DATAOR": "11-11-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CASTELLANO SARA",
         "SUPPLITO": ""
     },
     {
@@ -4181,8 +4223,8 @@
         "NUM": "5",
         "INIZIO": "12:00",
         "FINE": "13:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-ACCONCIATURA",
+        "FORMATORE": "RUBINO VITA",
         "SUPPLITO": ""
     },
     {
@@ -4265,8 +4307,8 @@
         "NUM": "6",
         "INIZIO": "13:00",
         "FINE": "14:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-ACCONCIATURA",
+        "FORMATORE": "RUBINO VITA",
         "SUPPLITO": ""
     },
     {
@@ -4517,8 +4559,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
+        "FORMATORE": "CARACAUSI FRANCA",
         "SUPPLITO": ""
     },
     {
@@ -4568,6 +4610,20 @@
         "CLASSE": "2C",
         "IDCORSO": " ID104",
         "CLASSE_SEZIONE": "2C ID104",
+        "DATAOR": "11-11-2026",
+        "ORARIO": "11:00 - 12:00",
+        "NUM": "4",
+        "INIZIO": "11:00",
+        "FINE": "12:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CASTELLANO SARA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "2C",
+        "IDCORSO": " ID104",
+        "CLASSE_SEZIONE": "2C ID104",
         "DATAOR": "12-11-2026",
         "ORARIO": "11:00 - 12:00",
         "NUM": "4",
@@ -4601,8 +4657,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-TAGLIO BASE UOMO",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -4645,6 +4701,20 @@
         "FINE": "13:00",
         "MODULO": "LABORATORIO INTERMEDIO ACCONCIATURA-COLORAZIONE E DECOLORAZIONE",
         "FORMATORE": "CARACAUSI FRANCA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "2C",
+        "IDCORSO": " ID104",
+        "CLASSE_SEZIONE": "2C ID104",
+        "DATAOR": "11-11-2026",
+        "ORARIO": "12:00 - 13:00",
+        "NUM": "5",
+        "INIZIO": "12:00",
+        "FINE": "13:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CASTELLANO SARA",
         "SUPPLITO": ""
     },
     {
@@ -4736,6 +4806,20 @@
         "CLASSE": "2C",
         "IDCORSO": " ID104",
         "CLASSE_SEZIONE": "2C ID104",
+        "DATAOR": "11-11-2026",
+        "ORARIO": "13:00 - 14:00",
+        "NUM": "6",
+        "INIZIO": "13:00",
+        "FINE": "14:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CASTELLANO SARA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "2C",
+        "IDCORSO": " ID104",
+        "CLASSE_SEZIONE": "2C ID104",
         "DATAOR": "12-11-2026",
         "ORARIO": "13:00 - 14:00",
         "NUM": "6",
@@ -4853,8 +4937,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-DETERSIONE E PULIZIA VISO",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -4937,8 +5021,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "EDUCAZIONE FISICA E MOTORIA",
-        "FORMATORE": "BELLARDITA LUCIA FRANCESCA",
+        "MODULO": "LABORATORIO INTERMEDIO ESTETICA-DETERSIONE E PULIZIA VISO",
+        "FORMATORE": "PATERNA DANIELA",
         "SUPPLITO": ""
     },
     {
@@ -7410,6 +7494,20 @@
         "CLASSE": "3B",
         "IDCORSO": " ID131",
         "CLASSE_SEZIONE": "3B ID131",
+        "DATAOR": "10-11-2026",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "RUSTICANO MARIA CRISTINA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3B",
+        "IDCORSO": " ID131",
+        "CLASSE_SEZIONE": "3B ID131",
         "DATAOR": "11-11-2026",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
@@ -7494,6 +7592,20 @@
         "CLASSE": "3B",
         "IDCORSO": " ID131",
         "CLASSE_SEZIONE": "3B ID131",
+        "DATAOR": "10-11-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "RUSTICANO MARIA CRISTINA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3B",
+        "IDCORSO": " ID131",
+        "CLASSE_SEZIONE": "3B ID131",
         "DATAOR": "11-11-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -7571,6 +7683,20 @@
         "FINE": "11:00",
         "MODULO": "LINGUA E LETTERATURA ITALIANA",
         "FORMATORE": "BIANCUCCI ANNUNZIATA MIRIAM",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "CORSO DEI MILLE, 893, 90123, Palermo (PA)",
+        "CLASSE": "3B",
+        "IDCORSO": " ID131",
+        "CLASSE_SEZIONE": "3B ID131",
+        "DATAOR": "10-11-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "RUSTICANO MARIA CRISTINA",
         "SUPPLITO": ""
     },
     {
