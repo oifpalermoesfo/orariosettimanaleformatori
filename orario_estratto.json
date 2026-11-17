@@ -3929,8 +3929,8 @@
         "NUM": "2",
         "INIZIO": "09:00",
         "FINE": "10:00",
-        "MODULO": "MATEMATICA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "STORIA ED EDUCAZIONE CIVICA",
+        "FORMATORE": "LA ROCCA RACHELE MARIA",
         "SUPPLITO": ""
     },
     {
@@ -5534,6 +5534,20 @@
         "CLASSE": "2H",
         "IDCORSO": " ID109",
         "CLASSE_SEZIONE": "2H ID109",
+        "DATAOR": "16-11-2026",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "2H",
+        "IDCORSO": " ID109",
+        "CLASSE_SEZIONE": "2H ID109",
         "DATAOR": "17-11-2026",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
@@ -5618,6 +5632,20 @@
         "CLASSE": "2H",
         "IDCORSO": " ID109",
         "CLASSE_SEZIONE": "2H ID109",
+        "DATAOR": "16-11-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CAVATAIO BENEDETTO",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "2H",
+        "IDCORSO": " ID109",
+        "CLASSE_SEZIONE": "2H ID109",
         "DATAOR": "17-11-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -5695,6 +5723,20 @@
         "FINE": "11:00",
         "MODULO": "ORIENTAMENTO",
         "FORMATORE": "MICELI ANTONELLA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "2H",
+        "IDCORSO": " ID109",
+        "CLASSE_SEZIONE": "2H ID109",
+        "DATAOR": "16-11-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "CAVATAIO BENEDETTO",
         "SUPPLITO": ""
     },
     {
@@ -6575,8 +6617,8 @@
         "NUM": "3",
         "INIZIO": "10:00",
         "FINE": "11:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -6645,8 +6687,8 @@
         "NUM": "4",
         "INIZIO": "11:00",
         "FINE": "12:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "PARI OPPORTUNITA' E NON DISCRIMINAZIONE",
+        "FORMATORE": "CACI MARILENA",
         "SUPPLITO": ""
     },
     {
@@ -6855,8 +6897,8 @@
         "NUM": "1",
         "INIZIO": "08:00",
         "FINE": "09:00",
-        "MODULO": "MATEMATICA E GEOMETRIA",
-        "FORMATORE": "REALMUTO LUCIA",
+        "MODULO": "LABORATORIO SEMIAVANZATO DI ACCONCIATURA-ASCIUGATURA AVANZATA",
+        "FORMATORE": "CATANZARO DOMENICO",
         "SUPPLITO": ""
     },
     {
@@ -8950,6 +8992,20 @@
         "CLASSE": "3H",
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "16-11-2026",
+        "ORARIO": "08:00 - 09:00",
+        "NUM": "1",
+        "INIZIO": "08:00",
+        "FINE": "09:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "AMOROSO MONICA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "17-11-2026",
         "ORARIO": "08:00 - 09:00",
         "NUM": "1",
@@ -9062,6 +9118,20 @@
         "CLASSE": "3H",
         "IDCORSO": " ID137",
         "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "16-11-2026",
+        "ORARIO": "09:00 - 10:00",
+        "NUM": "2",
+        "INIZIO": "09:00",
+        "FINE": "10:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "AMOROSO MONICA",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
         "DATAOR": "17-11-2026",
         "ORARIO": "09:00 - 10:00",
         "NUM": "2",
@@ -9167,6 +9237,20 @@
         "FINE": "11:00",
         "MODULO": "LINGUA E LETTERATURA ITALIANA",
         "FORMATORE": "FERRARA GIUSEPPE",
+        "SUPPLITO": ""
+    },
+    {
+        "SEDE": "VIA UGO LA MALFA, 101, 90146, Palermo (PA)",
+        "CLASSE": "3H",
+        "IDCORSO": " ID137",
+        "CLASSE_SEZIONE": "3H ID137",
+        "DATAOR": "16-11-2026",
+        "ORARIO": "10:00 - 11:00",
+        "NUM": "3",
+        "INIZIO": "10:00",
+        "FINE": "11:00",
+        "MODULO": "Sostegno",
+        "FORMATORE": "AMOROSO MONICA",
         "SUPPLITO": ""
     },
     {
